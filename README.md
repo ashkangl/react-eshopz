@@ -30,22 +30,18 @@ Live Demo:
 https://react-eshopz.vercel.app/
 
 Installation
-1. 
 Clone the repo:
 
-git clone [https://github.com/your-username/simple-react-ecommerce.git](https://github.com/ashkangl/react-eshopz.git)
+git clone https://github.com/ashkangl/react-eshopz.git
 
-1. 
 Navigate to the project directory:
 
 cd reshopz
 
-1. 
 Install dependencies:
 
 npm install
 
-1. 
 Start the development server:
 
 npm start
