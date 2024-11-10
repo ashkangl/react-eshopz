@@ -33,12 +33,12 @@ Installation
 1. 
 Clone the repo:
 
-git clone https://github.com/your-username/simple-react-ecommerce.git
+git clone [https://github.com/your-username/simple-react-ecommerce.git](https://github.com/ashkangl/react-eshopz.git)
 
 1. 
 Navigate to the project directory:
 
-cd simple-react-ecommerce
+cd reshopz
 
 1. 
 Install dependencies:
